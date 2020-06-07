@@ -4,7 +4,10 @@ This is for my reference. As HackerEarth provides option of JavaScript(Node.js).
 
 Conclusion: C++/Java is much better and less complex.
 
-Problem: Sum of Product
+Problem:
+
+Sum of Product
+
 Link: https://www.hackerearth.com/problem/algorithm/sum-of-product/
 
 
