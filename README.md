@@ -12,3 +12,9 @@ Link: https://www.hackerearth.com/problem/algorithm/sum-of-product/
 
 
 AC Link: https://www.hackerearth.com/submission/42950560/
+
+Greatest Common Divisor
+
+Link: https://www.hackerearth.com/problem/algorithm/greatest-common-divisor-1/
+
+AC Link: https://www.hackerearth.com/submission/42950805/
