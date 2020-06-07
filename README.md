@@ -6,14 +6,14 @@ Conclusion: C++/Java is much better and less complex.
 
 Problem:
 
-Sum of Product
+<strong>Sum of Product</strong>
 
 Link: https://www.hackerearth.com/problem/algorithm/sum-of-product/
 
 
 AC Link: https://www.hackerearth.com/submission/42950560/
 
-Greatest Common Divisor
+<strong>Greatest Common Divisor</strong>
 
 Link: https://www.hackerearth.com/problem/algorithm/greatest-common-divisor-1/
 
